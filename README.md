@@ -17,7 +17,7 @@ I am Feruza Temirova, currently studying at [National University of Uzbekistan](
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekTemirov&hide=TeX&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Feruza2711&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feruza2711&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UlugbekTemirov.UlugbekTemirov)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Feruza2711.Feruza2711)
